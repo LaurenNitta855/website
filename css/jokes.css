@@ -2,4 +2,18 @@
 
 body {
     font-family: 'Tilt Neon', cursive;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+    background-color: darkseagreen;
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 800px;
 }
