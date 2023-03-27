@@ -13,6 +13,10 @@ body {
     display: flex;
 }
 
+.content {
+    color: darkslategray;
+}
+
 body h1 {
     display: flex;
     justify-content: center;
@@ -52,3 +56,24 @@ body h3 {
 .search {
     margin: 10px;
 }
+
+.colorboard {
+    margin: 10px;
+}
+
+.counter {
+    margin: 10px;
+}
+
+.jokes {
+    margin: 10px;
+}
+
+.sounds {
+    margin: 10px;
+}
+
+.typing {
+    margin: 10px;
+}
+
